@@ -1,0 +1,25 @@
+# Pollen ID - Requirements File
+# ================================
+# Production dependencies for Streamlit Cloud deployment
+
+# Core Framework
+streamlit==1.39.0
+
+# API & Network
+requests==2.32.3
+
+# Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+plotly==5.24.1
+
+# Geocoding
+geopy==2.4.1
+
+# OpenAI Integration
+openai==1.54.5
+
+# Additional utilities (optional but recommended)
+python-dateutil==2.9.0
