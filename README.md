@@ -27,7 +27,7 @@ A production-ready MVP that combines real-time pollen data from Google's Pollen 
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+gh repo clone Intoxillectual/PollenID
 cd pollen-id
 ```
 
